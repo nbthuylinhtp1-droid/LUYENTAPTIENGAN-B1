@@ -1,0 +1,6 @@
+{
+  "name": "B1 Cambridge Speaking Part 1 Master",
+  "description": "Nền tảng phân tích, học tập và luyện thi tương tác 20 câu hỏi Speaking Part 1 B1 Cambridge chuẩn theo giáo trình của ThS. NGƯT Nguyễn Bùi Thùy Linh.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
